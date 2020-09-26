@@ -1,5 +1,5 @@
 def suma(a,b):
-    pass
+    return a + b
 
 def resta(a,b):
-    pass
+    return a - b
